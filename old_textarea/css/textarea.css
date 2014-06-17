@@ -1,0 +1,5 @@
+body{background: #C79ADB;}
+
+.clear{clear:both;}
+textarea{float:left;resize:none;margin: 0;padding: 5px 10px;border:none;outline: none;width:390px;}
+/*.special-textarea*/ #special-submit{background:white;margin: 0;padding: 0;float:left;border: none;outline: none;width:410px;display: none}
